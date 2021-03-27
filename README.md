@@ -5,6 +5,6 @@
 Amazon To BD is a web platform to easily look for Amazon products with BDT price.
 ## Instructions for Use
 This project runs on local host (127.0.0.1:8000). A user may edit the .env file to configure/change database name, root, app url, etc. The database file is added in the repository for convenience.
-##Screenshots
+## Screenshots
 Screenshots of the pages and records are added.
 
